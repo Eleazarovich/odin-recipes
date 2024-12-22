@@ -1,0 +1,1 @@
+This is my first project from The Odin Project, in it I get to apply my knowledge writing the html basic boilerplate, working with text like paragrphs and headings, ordered and unordered lists, images and links
