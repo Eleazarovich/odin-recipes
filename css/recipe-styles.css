@@ -1,0 +1,17 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, h2 {
+    width: 18%;
+    background-color: darkslategray;
+    color: white;
+}
+
+p {
+    width: 50%;
+}
+
+ol li {
+    width: 50%;
+}
